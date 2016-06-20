@@ -15,5 +15,21 @@
   },
   "Message": {
     "dataSource": null
+  },
+  "user": {
+    "dataSource": null,
+    "public": true
+  },
+  "invoices": {
+    "dataSource": null,
+    "public": true
+  },
+  "order": {
+    "dataSource": null,
+    "public": true
+  },
+  "book": {
+    "dataSource": null,
+    "public": true
   }
 }
