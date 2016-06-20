@@ -1,7 +1,7 @@
 {
   "name": "book",
   "plural": "books",
-  "base": "Model",
+  "base": "PersistedModel",
   "idInjection": true,
   "options": {
     "validateUpsert": true
@@ -24,7 +24,7 @@
       "default": "0"
     },
     "stock": {
-      "type": "string"
+      "type": "number"
     }
   },
   "validations": [],
