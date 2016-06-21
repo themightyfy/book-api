@@ -13,6 +13,9 @@
       "./mixins"
     ]
   },
+  "Message": {
+    "dataSource": null
+  },
   "user": {
     "dataSource": null,
     "public": true
